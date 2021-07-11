@@ -1,3 +1,13 @@
+<div align="center">
+  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/express.svg"/>
+  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/eslint.svg"/>
+  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/prettier.svg"/>
+  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pug.svg"/>
+  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/socket.io.svg"/>
+  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript-icon.svg"/>
+</div>
+
+Tech stack 👆
 # How to use it
 
 ```bash
