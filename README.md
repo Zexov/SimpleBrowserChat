@@ -1,6 +1,7 @@
 # How to use it
 
 ```bash
+# install deps
 yarn
 
 # development command
