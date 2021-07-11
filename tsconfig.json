@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "moduleResolution": "node",
+    "baseUrl": ".",
+    "outDir": "./bin",
+    "rootDir": "./src",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "sourceMap": true,
+    "esModuleInterop": true,
+    "removeComments": true,
+    "strict": true,
+    "module": "commonjs",
+    "lib": ["esnext", "es2020"],
+    "downlevelIteration": true,
+    "typeRoots": ["./@types", "./node_modules/@types"],
+    "paths": {
+      "~/*": ["*"]
+    }
+  },
+  "include": ["src/**/*"],
+  "exclude": ["./node_modules/", "public/**/*"]
+}

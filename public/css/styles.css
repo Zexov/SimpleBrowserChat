@@ -1,0 +1,49 @@
+body,
+html {
+  background-color: #18181B;
+  color: white;
+}
+
+.force-light {
+  color: white !important;
+}
+
+#chatBox {
+  height: 75vh;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+.chat-name {
+  overflow-wrap: anywhere;
+  font-weight: bold;
+}
+
+.column {
+  padding: 0.15rem !important;
+}
+
+.center-align {
+  display: flex;
+  align-items: center;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
